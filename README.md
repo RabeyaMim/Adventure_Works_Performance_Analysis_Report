@@ -7,7 +7,6 @@ This project analyzes Adventure Works' business performance using
 behavior, and geographic distribution. The goal is to uncover **key
 insights and growth opportunities** for the business.
 
-------------------------------------------------------------------------
 
 ## Executive Summary
 
@@ -17,7 +16,6 @@ return rate**, reflecting consistent growth while highlighting
 opportunities for **margin optimization, product quality improvement,
 market expansion, and enhanced customer retention**.
 
-------------------------------------------------------------------------
 
 ## Key Insights
 
@@ -48,7 +46,6 @@ market expansion, and enhanced customer retention**.
     -   Highest spender: **Mr. Maurice Shan -- $12.4K** from 6 orders.
     -   Several loyal customers contribute significantly to revenue.
 
-------------------------------------------------------------------------
 
 ## Recommendations
 
