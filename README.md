@@ -63,4 +63,4 @@ market expansion, and enhanced customer retention**.
 
 -   **Power BI** -- Data visualization & dashboarding
 consistent growth and opportunities in profit optimization, product
-quality, market expansion, and customer retention.*
+quality, market expansion, and customer retention.
